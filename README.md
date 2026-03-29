@@ -2,25 +2,22 @@
   <img src="image/logo.png" width="700" alt="AutoResearchClaw Logo">
 </p>
 
-<h2 align="center"><b>Chat an Idea. Get a Paper. Fully Autonomous & Self-Evolving.</b></h2>
-
-
+<h2 align="center"><b>Напишите идею. Получите статью. Полностью автономно и с самообучением.</b></h2>
 
 <p align="center">
-  <b><i><font size="5">Just chat with <a href="#openclaw-integration">OpenClaw</a>: "Research X" → done.</font></i></b>
+  <b><i><font size="5">Просто напишите <a href="#-интеграция-с-openclaw">OpenClaw</a>: «Исследуй X» → готово.</font></i></b>
 </p>
 
 <p align="center">
   <img src="image/framework_v2.png" width="100%" alt="AutoResearchClaw Framework">
 </p>
 
-
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python 3.11+"></a>
-  <a href="#testing"><img src="https://img.shields.io/badge/Tests-1823%20passed-brightgreen?logo=pytest&logoColor=white" alt="1823 Tests Passed"></a>
+  <a href="#тестирование"><img src="https://img.shields.io/badge/Tests-1823%20passed-brightgreen?logo=pytest&logoColor=white" alt="1823 Tests Passed"></a>
   <a href="https://github.com/aiming-lab/AutoResearchClaw"><img src="https://img.shields.io/badge/GitHub-AutoResearchClaw-181717?logo=github" alt="GitHub"></a>
-  <a href="#openclaw-integration"><img src="https://img.shields.io/badge/OpenClaw-Compatible-ff4444?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="OpenClaw Compatible"></a>
+  <a href="#-интеграция-с-openclaw"><img src="https://img.shields.io/badge/OpenClaw-Compatible-ff4444?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="OpenClaw Compatible"></a>
   <a href="https://discord.gg/u4ksqW5P"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
@@ -32,12 +29,11 @@
   <a href="docs/README_DE.md">🇩🇪 Deutsch</a> ·
   <a href="docs/README_ES.md">🇪🇸 Español</a> ·
   <a href="docs/README_PT.md">🇧🇷 Português</a> ·
-  <a href="docs/README_RU.md">🇷🇺 Русский</a> ·
   <a href="docs/README_AR.md">🇸🇦 العربية</a>
 </p>
 
 <p align="center">
-  <a href="docs/showcase/SHOWCASE.md">🏆 Paper Showcase</a> · <a href="docs/integration-guide.md">📖 Integration Guide</a> · <a href="https://discord.gg/u4ksqW5P">💬 Discord Community</a>
+  <a href="docs/showcase/SHOWCASE.md">🏆 Галерея статей</a> · <a href="docs/integration-guide.md">📖 Руководство по интеграции</a> · <a href="https://discord.gg/u4ksqW5P">💬 Сообщество в Discord</a>
 </p>
 
 ---
@@ -45,96 +41,95 @@
 <table>
 <tr>
 <td width="18%">
-<a href="docs/showcase/SHOWCASE.md"><img src="docs/showcase/thumbnails/paper_I_random_matrix-01.png" width="120" alt="Sample Paper"/></a>
+<a href="docs/showcase/SHOWCASE.md"><img src="docs/showcase/thumbnails/paper_I_random_matrix-01.png" width="120" alt="Пример статьи"/></a>
 </td>
 <td valign="middle">
-<b>🏆 Generated Paper Showcase</b><br><br>
-<b>8 papers across 8 domains</b> — math, statistics, biology, computing, NLP, RL, vision, robustness — generated fully autonomously with zero human intervention.<br><br>
-<a href="docs/showcase/SHOWCASE.md"><img src="https://img.shields.io/badge/View_Full_Showcase_→-All_8_Papers-d73a49?style=for-the-badge" alt="View Showcase"></a>
+<b>🏆 Галерея сгенерированных статей</b><br><br>
+<b>8 статей в 8 областях</b> — математика, статистика, биология, информатика, NLP, RL, компьютерное зрение, робастность — сгенерированы полностью автономно без участия человека.<br><br>
+<a href="docs/showcase/SHOWCASE.md"><img src="https://img.shields.io/badge/Посмотреть_галерею_→-Все_8_статей-d73a49?style=for-the-badge" alt="Посмотреть галерею"></a>
 </td>
 </tr>
 </table>
 
 ---
 
-> **🧪 We're looking for testers!** Try the pipeline with your own research idea — from any field — and [tell us what you think](docs/TESTER_GUIDE.md). Your feedback directly shapes the next version. **[→ Testing Guide](docs/TESTER_GUIDE.md)** | **[→ 中文测试指南](docs/TESTER_GUIDE_CN.md)** | **[→ 日本語テストガイド](docs/TESTER_GUIDE_JA.md)**
+> **🧪 Мы ищем тестировщиков!** Попробуйте запустить пайплайн со своей исследовательской идеей из любой области и [расскажите нам о результатах](docs/TESTER_GUIDE.md). Ваш фидбек напрямую влияет на развитие проекта. **[→ Руководство по тестированию](docs/TESTER_GUIDE.md)** | **[→ 中文测试指南](docs/TESTER_GUIDE_CN.md)** | **[→ 日本語テストガイド](docs/TESTER_GUIDE_JA.md)**
 
 ---
 
-## 🔥 News
-- **[03/22/2026]** [v0.3.2](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.2) — **Cross-Platform Support + Major Stability** — AutoResearchClaw now runs on any ACP-compatible agent backend (Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI) and supports messaging platforms (Discord, Telegram, Lark, WeChat) via OpenClaw bridge. New CLI-agent code generation backend delegates Stages 10 & 13 to external CLI agents with budget control and timeout management. Also includes anti-fabrication system (VerifiedRegistry + experiment diagnosis & repair loop), 100+ bug fixes, modular executor refactoring, `--resume` auto-detection, LLM retry hardening, and community-reported fixes. 
-- **[03/18/2026]** [v0.3.1](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.1) — **OpenCode Beast Mode + Community Contributions** — New "Beast Mode" routes complex code generation to [OpenCode](https://github.com/anomalyco/opencode) with automatic complexity scoring and graceful fallback. Added Novita AI provider support, thread-safety hardening, improved LLM output parsing robustness, and 20+ bug fixes from community PRs and internal audit.
-- **[03/17/2026]** [v0.3.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.0) — **MetaClaw Integration** — AutoResearchClaw now supports [MetaClaw](https://github.com/aiming-lab/MetaClaw) cross-run learning: pipeline failures → structured lessons → reusable skills, injected into all 23 stages. **+18.3%** robustness in controlled experiments. Opt-in (`metaclaw_bridge.enabled: true`), fully backward-compatible. See [Integration Guide](#-metaclaw-integration).
-- **[03/16/2026]** [v0.2.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.2.0) — Three multi-agent subsystems (CodeAgent, BenchmarkAgent, FigureAgent), hardened Docker sandbox with network-policy-aware execution, 4-round paper quality audit (AI-slop detection, 7-dim review scoring, NeurIPS checklist), and 15+ bug fixes from production runs.
-- **[03/15/2026]** [v0.1.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.1.0) — We release AutoResearchClaw: a fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper. No human intervention required.
+## 🔥 Новости
+- **[22.03.2026]** [v0.3.2](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.2) — **Кроссплатформенная поддержка + крупное обновление стабильности** — AutoResearchClaw теперь работает с любым ACP-совместимым агентом (Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI) и поддерживает мессенджеры (Discord, Telegram, Lark, WeChat) через мост OpenClaw. Новый CLI-agent бэкенд генерации кода делегирует Stage 10 и 13 внешним CLI-агентам с контролем бюджета и управлением таймаутами. Включает систему защиты от фабрикации (VerifiedRegistry + цикл диагностики и ремонта экспериментов), 100+ исправлений багов, модульный рефакторинг executor, автоопределение `--resume`, усиление повторов LLM и исправления от сообщества.
+- **[18.03.2026]** [v0.3.1](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.1) — **OpenCode Beast Mode + Контрибьюты сообщества** — Новый режим «Beast Mode» перенаправляет сложную генерацию кода в [OpenCode](https://github.com/anomalyco/opencode) с автоматической оценкой сложности и безопасным фоллбэком. Добавлена поддержка провайдера Novita AI, улучшена потокобезопасность, повышена надёжность парсинга ответов LLM, а также исправлено более 20 багов благодаря PR от сообщества и внутреннему аудиту.
+- **[17.03.2026]** [v0.3.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.3.0) — **Интеграция с MetaClaw** — AutoResearchClaw теперь поддерживает кросс-сессионное обучение через [MetaClaw](https://github.com/aiming-lab/MetaClaw): ошибки пайплайна → структурированные уроки → переиспользуемые навыки, которые внедряются во все 23 этапа. Робастность в контролируемых экспериментах выросла на **+18.3%**. Фича опциональна (`metaclaw_bridge.enabled: true`) и полностью обратно совместима. См. [Руководство по интеграции](#-интеграция-с-metaclaw).
+- **[16.03.2026]** [v0.2.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.2.0) — Три мультиагентные подсистемы (CodeAgent, BenchmarkAgent, FigureAgent), защищённая Docker-песочница с поддержкой сетевых политик, 4-этапный аудит качества статьи (поиск ИИ-галлюцинаций, оценка по 7 критериям, чек-лист NeurIPS) и более 15 исправлений багов с продакшена.
+- **[15.03.2026]** [v0.1.0](https://github.com/aiming-lab/AutoResearchClaw/releases/tag/v0.1.0) — Релиз AutoResearchClaw: полностью автономный исследовательский пайплайн из 23 этапов, который превращает одну идею в готовую для конференции статью. Без вмешательства человека.
 
 ---
 
-## ⚡ One Command. One Paper.
+## ⚡ Одна команда. Одна статья.
 
 ```bash
-pip install -e . && researchclaw setup && researchclaw init && researchclaw run --topic "Your research idea here" --auto-approve
+pip install -e . && researchclaw setup && researchclaw init && researchclaw run --topic "Ваша исследовательская идея" --auto-approve
 ```
 
-
 ---
 
-## 🤔 What Is This?
+## 🤔 Что это такое?
 
-**You think it. AutoResearchClaw writes it.**
+**Вы придумываете. AutoResearchClaw пишет.**
 
-Drop a research topic — get back a full academic paper with real literature from OpenAlex, Semantic Scholar & arXiv, hardware-aware sandbox experiments (GPU/MPS/CPU auto-detected), statistical analysis, multi-agent peer review, and conference-ready LaTeX targeting NeurIPS/ICML/ICLR. No babysitting. No copy-pasting. No hallucinated references.
+Задайте тему исследования — и получите полноценную академическую статью с реальным обзором литературы из OpenAlex, Semantic Scholar и arXiv, экспериментами в песочнице с учётом вашего оборудования (автоопределение GPU/MPS/CPU), статистическим анализом, мультиагентным рецензированием и готовым LaTeX-кодом для конференций NeurIPS/ICML/ICLR. Никакого ручного контроля. Никакого копипаста. Никаких выдуманных ссылок.
 
 <table>
-<tr><td>📄</td><td><code>paper_draft.md</code></td><td>Full academic paper (Introduction, Related Work, Method, Experiments, Results, Conclusion)</td></tr>
-<tr><td>📐</td><td><code>paper.tex</code></td><td>Conference-ready LaTeX (NeurIPS / ICLR / ICML templates)</td></tr>
-<tr><td>📚</td><td><code>references.bib</code></td><td>Real BibTeX references from OpenAlex, Semantic Scholar and arXiv — auto-pruned to match inline citations</td></tr>
-<tr><td>🔍</td><td><code>verification_report.json</code></td><td>4-layer citation integrity + relevance verification (arXiv, CrossRef, DataCite, LLM)</td></tr>
-<tr><td>🧪</td><td><code>experiment runs/</code></td><td>Generated code + sandbox results + structured JSON metrics</td></tr>
-<tr><td>📊</td><td><code>charts/</code></td><td>Auto-generated condition comparison charts with error bars and confidence intervals</td></tr>
-<tr><td>📝</td><td><code>reviews.md</code></td><td>Multi-agent peer review with methodology-evidence consistency checks</td></tr>
-<tr><td>🧬</td><td><code>evolution/</code></td><td>Self-learning lessons extracted from each run</td></tr>
-<tr><td>📦</td><td><code>deliverables/</code></td><td>All final outputs in one folder — compile-ready for Overleaf</td></tr>
+<tr><td>📄</td><td><code>paper_draft.md</code></td><td>Полная академическая статья (Введение, Обзор литературы, Метод, Эксперименты, Результаты, Заключение)</td></tr>
+<tr><td>📐</td><td><code>paper.tex</code></td><td>Готовый LaTeX-код (шаблоны NeurIPS / ICLR / ICML)</td></tr>
+<tr><td>📚</td><td><code>references.bib</code></td><td>Реальные BibTeX-ссылки из OpenAlex, Semantic Scholar и arXiv — автоматически отфильтрованные под цитаты в тексте</td></tr>
+<tr><td>🔍</td><td><code>verification_report.json</code></td><td>4-уровневая проверка целостности и релевантности цитирования (arXiv, CrossRef, DataCite, LLM)</td></tr>
+<tr><td>🧪</td><td><code>experiment runs/</code></td><td>Сгенерированный код + результаты из песочницы + структурированные JSON-метрики</td></tr>
+<tr><td>📊</td><td><code>charts/</code></td><td>Автоматически сгенерированные графики сравнения с планками погрешностей и доверительными интервалами</td></tr>
+<tr><td>📝</td><td><code>reviews.md</code></td><td>Мультиагентное рецензирование с проверкой согласованности методологии и результатов</td></tr>
+<tr><td>🧬</td><td><code>evolution/</code></td><td>Уроки для самообучения, извлечённые из каждого запуска</td></tr>
+<tr><td>📦</td><td><code>deliverables/</code></td><td>Все итоговые материалы в одной папке — готовы к загрузке в Overleaf</td></tr>
 </table>
 
-The pipeline runs **end-to-end without human intervention**. When experiments fail, it self-heals. When hypotheses don't hold, it pivots. When citations are fake, it kills them.
+Пайплайн работает **от начала до конца без вмешательства человека**. Если эксперименты падают — он чинит код. Если гипотезы не подтверждаются — он меняет направление. Если цитаты оказываются фейковыми — он их удаляет.
 
-🌍 **Run it anywhere.** AutoResearchClaw isn't locked to a single platform. Use it standalone via CLI, plug it into [OpenClaw](https://github.com/openclaw/openclaw), or wire it up through any ACP-compatible agent — 🤖 Claude Code, 💻 Codex CLI, 🐙 Copilot CLI, ♊ Gemini CLI, 🌙 Kimi CLI, you name it. And because OpenClaw bridges to messaging platforms, you can kick off a full research run from 💬 Discord, ✈️ Telegram, 🐦 Lark (飞书), 💚 WeChat, or wherever your team already hangs out. One topic in, one paper out — no matter where you type it.
+🌍 **Запускайте где угодно.** AutoResearchClaw не привязан к одной платформе. Используйте его автономно через CLI, подключайте к [OpenClaw](https://github.com/openclaw/openclaw) или интегрируйте через любого ACP-совместимого агента — 🤖 Claude Code, 💻 Codex CLI, 🐙 Copilot CLI, ♊ Gemini CLI, 🌙 Kimi CLI. А благодаря мосту OpenClaw к мессенджерам вы можете запустить полный цикл исследования из 💬 Discord, ✈️ Telegram, 🐦 Lark (Feishu), 💚 WeChat или любого другого сервиса, в котором работает ваша команда. Одна тема на входе, одна статья на выходе — неважно, откуда вы пишете.
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Быстрый старт
 
 ```bash
-# 1. Clone & install
+# 1. Клонируйте и установите
 git clone https://github.com/aiming-lab/AutoResearchClaw.git
 cd AutoResearchClaw
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
 
-# 2. Setup (interactive — installs OpenCode beast mode, checks Docker/LaTeX)
+# 2. Настройка (интерактивная — устанавливает OpenCode Beast Mode, проверяет Docker/LaTeX)
 researchclaw setup
 
-# 3. Configure
-researchclaw init          # Interactive: choose LLM provider, creates config.arc.yaml
-# Or manually: cp config.researchclaw.example.yaml config.arc.yaml
+# 3. Конфигурация
+researchclaw init          # Интерактивный режим: выбор провайдера LLM, создание config.arc.yaml
+# Или вручную: cp config.researchclaw.example.yaml config.arc.yaml
 
-# 4. Run
+# 4. Запуск
 export OPENAI_API_KEY="sk-..."
-researchclaw run --config config.arc.yaml --topic "Your research idea" --auto-approve
+researchclaw run --config config.arc.yaml --topic "Ваша исследовательская идея" --auto-approve
 ```
 
-Output → `artifacts/rc-YYYYMMDD-HHMMSS-<hash>/deliverables/` — compile-ready LaTeX, BibTeX, experiment code, charts.
+Результаты → `artifacts/rc-YYYYMMDD-HHMMSS-<hash>/deliverables/` — готовые к компиляции LaTeX, BibTeX, код экспериментов, графики.
 
 <details>
-<summary>📝 Minimum required config</summary>
+<summary>📝 Минимальная конфигурация</summary>
 
 ```yaml
 project:
   name: "my-research"
 
 research:
-  topic: "Your research topic here"
+  topic: "Ваша тема исследования"
 
 llm:
   base_url: "https://api.openai.com/v1"
@@ -152,75 +147,75 @@ experiment:
 
 ---
 
-## 🧠 What Makes It Different
+## 🧠 В чём отличие от других
 
-| Capability | How It Works |
+| Возможность | Как это работает |
 |-----------|-------------|
-| **🔄 PIVOT / REFINE Loop** | Stage 15 autonomously decides: PROCEED, REFINE (tweak params), or PIVOT (new direction). Artifacts auto-versioned. |
-| **🤖 Multi-Agent Debate** | Hypothesis generation, result analysis, and peer review each use structured multi-perspective debate. |
-| **🧬 Self-Learning** | Lessons extracted per run (decision rationale, runtime warnings, metric anomalies) with 30-day time-decay. Future runs learn from past mistakes. |
-| **📚 Knowledge Base** | Every run builds structured KB across 6 categories (decisions, experiments, findings, literature, questions, reviews). |
-| **🛡️ Sentinel Watchdog** | Background quality monitor: NaN/Inf detection, paper-evidence consistency, citation relevance scoring, anti-fabrication guard. |
+| **🔄 Цикл PIVOT / REFINE** | На 15-м этапе система автономно решает: ПРОДОЛЖИТЬ, УЛУЧШИТЬ (подобрать параметры) или СМЕНИТЬ КУРС (PIVOT). Артефакты версионируются автоматически. |
+| **🤖 Мультиагентные дебаты** | Генерация гипотез, анализ результатов и рецензирование проходят в формате структурированных дебатов с разных точек зрения. |
+| **🧬 Самообучение** | Из каждого запуска извлекаются уроки (обоснование решений, ошибки в коде, аномалии в метриках) с периодом полураспада в 30 дней. Будущие запуски учатся на прошлых ошибках. |
+| **📚 База знаний** | Каждый запуск пополняет структурированную базу знаний по 6 категориям (решения, эксперименты, находки, литература, вопросы, рецензии). |
+| **🛡️ Сторожевой модуль Sentinel** | Фоновый мониторинг качества: обнаружение NaN/Inf, проверка соответствия текста статьи реальным данным, оценка релевантности цитат, защита от фабрикации фактов. |
 
 ---
 
-## 🦞 OpenClaw Integration
+## 🦞 Интеграция с OpenClaw
 
 <table>
 <tr>
 
-**AutoResearchClaw is an [OpenClaw](https://github.com/openclaw/openclaw)-compatible service.** Install it in OpenClaw and launch autonomous research with a single message — or use it standalone via CLI, Claude Code, or any AI coding assistant.
+**AutoResearchClaw полностью совместим с [OpenClaw](https://github.com/openclaw/openclaw).** Установите его в OpenClaw и запускайте автономные исследования одним сообщением — или используйте отдельно через CLI, Claude Code или любой другой ИИ-ассистент.
 
 </tr>
 </table>
 
-### 🚀 Use with OpenClaw (Recommended)
+### 🚀 Использование с OpenClaw (рекомендуется)
 
-If you already use [OpenClaw](https://github.com/openclaw/openclaw) as your AI assistant:
+Если вы уже используете [OpenClaw](https://github.com/openclaw/openclaw) как своего ИИ-ассистента:
 
 ```
-1️⃣  Share the GitHub repo URL with OpenClaw
-2️⃣  OpenClaw auto-reads RESEARCHCLAW_AGENTS.md → understands the pipeline
-3️⃣  Say: "Research [your topic]"
-4️⃣  Done — OpenClaw clones, installs, configures, runs, and returns results
+1️⃣  Отправьте URL репозитория в OpenClaw
+2️⃣  OpenClaw автоматически прочитает RESEARCHCLAW_AGENTS.md → поймёт структуру пайплайна
+3️⃣  Напишите: «Проведи исследование на тему [ваша тема]»
+4️⃣  Готово — OpenClaw сам склонирует, установит, настроит, запустит и вернёт результаты
 ```
 
-**That's it.** OpenClaw handles `git clone`, `pip install`, config setup, and pipeline execution automatically. You just chat.
+**Вот и всё.** OpenClaw берёт на себя `git clone`, `pip install`, настройку конфигов и запуск пайплайна. Вы просто общаетесь в чате.
 
 <details>
-<summary>💡 What happens under the hood</summary>
+<summary>💡 Что происходит под капотом</summary>
 
-1. OpenClaw reads `RESEARCHCLAW_AGENTS.md` → learns the research orchestrator role
-2. OpenClaw reads `README.md` → understands installation and pipeline structure
-3. OpenClaw copies `config.researchclaw.example.yaml` → `config.yaml`
-4. Asks for your LLM API key (or uses your environment variable)
-5. Runs `pip install -e .` + `researchclaw run --topic "..." --auto-approve`
-6. Returns the paper, LaTeX, experiments, and citations
+1. OpenClaw читает `RESEARCHCLAW_AGENTS.md` → принимает на себя роль исследовательского оркестратора
+2. OpenClaw читает `README.md` → понимает процесс установки и структуру пайплайна
+3. OpenClaw копирует `config.researchclaw.example.yaml` → `config.yaml`
+4. Запрашивает ваш API-ключ (или использует переменную окружения)
+5. Выполняет `pip install -e .` + `researchclaw run --topic "..." --auto-approve`
+6. Возвращает готовую статью, LaTeX, код экспериментов и список литературы
 
 </details>
 
-### 🔌 OpenClaw Bridge (Advanced)
+### 🔌 Мост OpenClaw (продвинутый уровень)
 
-For deeper integration, AutoResearchClaw includes a **bridge adapter system** with 6 optional capabilities:
+Для более глубокой интеграции в AutoResearchClaw встроена **система адаптеров** с 6 опциональными возможностями:
 
 ```yaml
 # config.arc.yaml
 openclaw_bridge:
-  use_cron: true              # ⏰ Scheduled research runs
-  use_message: true           # 💬 Progress notifications (Discord/Slack/Telegram)
-  use_memory: true            # 🧠 Cross-session knowledge persistence
-  use_sessions_spawn: true    # 🔀 Spawn parallel sub-sessions for concurrent stages
-  use_web_fetch: true         # 🌐 Live web search during literature review
-  use_browser: false          # 🖥️ Browser-based paper collection
+  use_cron: true              # ⏰ Запуск исследований по расписанию
+  use_message: true           # 💬 Уведомления о прогрессе (Discord/Slack/Telegram)
+  use_memory: true            # 🧠 Сохранение знаний между сессиями
+  use_sessions_spawn: true    # 🔀 Запуск параллельных подсессий для независимых этапов
+  use_web_fetch: true         # 🌐 Поиск в интернете в реальном времени при обзоре литературы
+  use_browser: false          # 🖥️ Сбор статей через браузер
 ```
 
-Each flag activates a typed adapter protocol. When OpenClaw provides these capabilities, the adapters consume them without code changes. See [`docs/integration-guide.md`](docs/integration-guide.md) for full details.
+Каждый флаг активирует типизированный протокол адаптера. Если OpenClaw поддерживает эти функции, адаптеры используют их без изменения кода. Подробности см. в [`docs/integration-guide.md`](docs/integration-guide.md).
 
 ### ACP (Agent Client Protocol)
 
-AutoResearchClaw can use **any ACP-compatible coding agent** as its LLM backend — no API keys required. The agent communicates via [acpx](https://github.com/openclaw/acpx), maintaining a single persistent session across all 23 pipeline stages.
+AutoResearchClaw может использовать **любого ACP-совместимого агента** в качестве LLM-бэкенда — API-ключи не требуются. Агент общается через [acpx](https://github.com/openclaw/acpx), поддерживая единую сессию на протяжении всех 23 этапов.
 
-| Agent | Command | Notes |
+| Агент | Команда | Примечания |
 |-------|---------|-------|
 | Claude Code | `claude` | Anthropic |
 | Codex CLI | `codex` | OpenAI |
@@ -230,211 +225,211 @@ AutoResearchClaw can use **any ACP-compatible coding agent** as its LLM backend 
 | Kimi CLI | `kimi` | Moonshot |
 
 ```yaml
-# config.yaml — ACP example
+# config.yaml — пример ACP
 llm:
   provider: "acp"
   acp:
-    agent: "claude"   # Any ACP-compatible agent CLI command
-    cwd: "."          # Working directory for the agent
-  # No base_url or api_key needed — the agent handles its own auth.
+    agent: "claude"   # Любая команда CLI ACP-совместимого агента
+    cwd: "."          # Рабочая директория для агента
+  # base_url и api_key не нужны — агент сам управляет авторизацией.
 ```
 
 ```bash
-# Just run — the agent uses its own credentials
-researchclaw run --config config.yaml --topic "Your research idea" --auto-approve
+# Просто запускайте — агент использует свои собственные учётные данные
+researchclaw run --config config.yaml --topic "Ваша идея" --auto-approve
 ```
 
-### 🛠️ Other Ways to Run
+### 🛠️ Другие способы запуска
 
-| Method | How |
+| Способ | Как запустить |
 |--------|-----|
-| **Standalone CLI** | `researchclaw setup` → `researchclaw init` → `researchclaw run --topic "..." --auto-approve` |
+| **CLI** | `researchclaw setup` → `researchclaw init` → `researchclaw run --topic "..." --auto-approve` |
 | **Python API** | `from researchclaw.pipeline import Runner; Runner(config).run()` |
-| **Claude Code** | Reads `RESEARCHCLAW_CLAUDE.md` — just say *"Run research on [topic]"* |
-| **Copilot CLI** | `researchclaw run --topic "..."` with `llm.acp.agent: "gh"` |
-| **OpenCode** | Reads `.claude/skills/` — same natural language interface |
-| **Any AI CLI** | Provide `RESEARCHCLAW_AGENTS.md` as context → agent auto-bootstraps |
+| **Claude Code** | Читает `RESEARCHCLAW_CLAUDE.md` — просто напишите *«Run research on [topic]»* |
+| **Copilot CLI** | `researchclaw run --topic "..."` с `llm.acp.agent: "gh"` |
+| **OpenCode** | Читает `.claude/skills/` — такой же интерфейс на естественном языке |
+| **Любой AI CLI** | Скормите `RESEARCHCLAW_AGENTS.md` в контекст → агент сам поймёт, что делать |
 
 ---
 
-## 🔬 Pipeline: 23 Stages, 8 Phases
+## 🔬 Пайплайн: 23 этапа, 8 фаз
 
 ```
-Phase A: Research Scoping          Phase E: Experiment Execution
-  1. TOPIC_INIT                      12. EXPERIMENT_RUN
-  2. PROBLEM_DECOMPOSE               13. ITERATIVE_REFINE  ← self-healing
+Фаза A: Определение области          Фаза E: Выполнение экспериментов
+  1. TOPIC_INIT                         12. EXPERIMENT_RUN
+  2. PROBLEM_DECOMPOSE                  13. ITERATIVE_REFINE  ← самовосстановление
 
-Phase B: Literature Discovery      Phase F: Analysis & Decision
-  3. SEARCH_STRATEGY                 14. RESULT_ANALYSIS    ← multi-agent
-  4. LITERATURE_COLLECT  ← real API  15. RESEARCH_DECISION  ← PIVOT/REFINE
-  5. LITERATURE_SCREEN   [gate]
-  6. KNOWLEDGE_EXTRACT               Phase G: Paper Writing
-                                     16. PAPER_OUTLINE
-Phase C: Knowledge Synthesis         17. PAPER_DRAFT
-  7. SYNTHESIS                       18. PEER_REVIEW        ← evidence check
-  8. HYPOTHESIS_GEN    ← debate      19. PAPER_REVISION
+Фаза B: Поиск литературы             Фаза F: Анализ и принятие решений
+  3. SEARCH_STRATEGY                    14. RESULT_ANALYSIS    ← мультиагентный анализ
+  4. LITERATURE_COLLECT  ← API          15. RESEARCH_DECISION  ← PIVOT/REFINE
+  5. LITERATURE_SCREEN   [гейт]
+  6. KNOWLEDGE_EXTRACT                  Фаза G: Написание статьи
+                                        16. PAPER_OUTLINE
+Фаза C: Синтез знаний                  17. PAPER_DRAFT
+  7. SYNTHESIS                          18. PEER_REVIEW        ← проверка доказательств
+  8. HYPOTHESIS_GEN    ← дебаты         19. PAPER_REVISION
 
-Phase D: Experiment Design         Phase H: Finalization
-  9. EXPERIMENT_DESIGN   [gate]      20. QUALITY_GATE      [gate]
- 10. CODE_GENERATION                 21. KNOWLEDGE_ARCHIVE
- 11. RESOURCE_PLANNING               22. EXPORT_PUBLISH     ← LaTeX
-                                     23. CITATION_VERIFY    ← relevance check
+Фаза D: Дизайн экспериментов         Фаза H: Финализация
+  9. EXPERIMENT_DESIGN   [гейт]         20. QUALITY_GATE      [гейт]
+ 10. CODE_GENERATION                    21. KNOWLEDGE_ARCHIVE
+ 11. RESOURCE_PLANNING                  22. EXPORT_PUBLISH     ← LaTeX
+                                        23. CITATION_VERIFY    ← проверка релевантности
 ```
 
-> **Gate stages** (5, 9, 20) pause for human approval or auto-approve with `--auto-approve`. On rejection, the pipeline rolls back.
+> **Гейты (контрольные точки)** (5, 9, 20) ставят пайплайн на паузу для подтверждения человеком (или пропускаются флагом `--auto-approve`). При отклонении пайплайн откатывается назад.
 
-> **Decision loops**: Stage 15 can trigger REFINE (→ Stage 13) or PIVOT (→ Stage 8), with automatic artifact versioning.
+> **Циклы принятия решений**: на 15-м этапе система может уйти на доработку (REFINE → Этап 13) или сменить курс (PIVOT → Этап 8), автоматически сохраняя версии артефактов.
 
 <details>
-<summary>📋 What Each Phase Does</summary>
+<summary>📋 Что происходит на каждой фазе</summary>
 
-| Phase | What Happens |
+| Фаза | Описание |
 |-------|-------------|
-| **A: Scoping** | LLM decomposes the topic into a structured problem tree with research questions |
-| **A+: Hardware** | Auto-detects GPU (NVIDIA CUDA / Apple MPS / CPU-only), warns if local hardware is limited, adapts code generation accordingly |
-| **B: Literature** | Multi-source search (OpenAlex → Semantic Scholar → arXiv) for real papers, screens by relevance, extracts knowledge cards |
-| **C: Synthesis** | Clusters findings, identifies research gaps, generates testable hypotheses via multi-agent debate |
-| **D: Design** | Designs experiment plan, generates hardware-aware runnable Python (GPU tier → package selection), estimates resource needs |
-| **E: Execution** | Runs experiments in sandbox, detects NaN/Inf and runtime bugs, self-heals code via targeted LLM repair |
-| **F: Analysis** | Multi-agent analysis of results; autonomous PROCEED / REFINE / PIVOT decision with rationale |
-| **G: Writing** | Outlines → section-by-section drafting (5,000-6,500 words) → peer reviews (with methodology-evidence consistency) → revises with length guard |
-| **H: Finalization** | Quality gate, knowledge archival, LaTeX export with conference template, citation integrity + relevance verification |
+| **A: Определение области** | LLM разбивает тему на структурированное дерево проблем с исследовательскими вопросами |
+| **A+: Оборудование** | Автоопределение GPU (NVIDIA CUDA / Apple MPS / CPU), предупреждения о нехватке ресурсов, адаптация генерации кода под доступное оборудование |
+| **B: Литература** | Поиск по нескольким базам (OpenAlex → Semantic Scholar → arXiv) реальных статей, фильтрация по релевантности, извлечение карточек знаний |
+| **C: Синтез** | Кластеризация находок, поиск пробелов в исследованиях, генерация проверяемых гипотез через мультиагентные дебаты |
+| **D: Дизайн** | Проектирование плана экспериментов, генерация Python-кода с учётом оборудования (выбор пакетов под GPU), оценка требуемых ресурсов |
+| **E: Выполнение** | Запуск экспериментов в песочнице, отлов NaN/Inf и багов в рантайме, самовосстановление кода через LLM |
+| **F: Анализ** | Мультиагентный анализ результатов; автономное решение ПРОДОЛЖИТЬ / УЛУЧШИТЬ / СМЕНИТЬ КУРС с подробным обоснованием |
+| **G: Написание** | План → написание по разделам (5 000–6 500 слов) → рецензирование (с проверкой соответствия методологии и результатов) → редактура с контролем объёма |
+| **H: Финализация** | Контроль качества, архивация знаний, экспорт в LaTeX по шаблонам конференций, проверка целостности и релевантности цитат |
 
 </details>
 
 ---
 
-## ✨ Key Features
+## ✨ Ключевые возможности
 
-| Feature | Description |
+| Возможность | Описание |
 |---------|------------|
-| **📚 Multi-Source Literature** | Real papers from OpenAlex, Semantic Scholar & arXiv — query expansion, deduplication, circuit breaker with graceful degradation |
-| **🔍 4-Layer Citation Verification** | arXiv ID check → CrossRef/DataCite DOI → Semantic Scholar title match → LLM relevance scoring. Hallucinated refs auto-removed. |
-| **🖥️ Hardware-Aware Execution** | Auto-detects GPU (NVIDIA CUDA / Apple MPS / CPU-only) and adapts code generation, imports, and experiment scale accordingly |
-| **🦾 OpenCode Beast Mode** | Complex experiments auto-routed to [OpenCode](https://github.com/anomalyco/opencode) — generates multi-file projects with custom architectures, training loops, and ablation studies. Install via `researchclaw setup`. |
-| **🧪 Sandbox Experiments** | AST-validated code, immutable harness, NaN/Inf fast-fail, self-healing repair, iterative refinement (up to 10 rounds), partial result capture |
-| **📝 Conference-Grade Writing** | NeurIPS/ICML/ICLR templates, section-by-section drafting (5,000-6,500 words), anti-fabrication guard, revision length guard, anti-disclaimer enforcement |
-| **📐 Template Switching** | `neurips_2025`, `iclr_2026`, `icml_2026` — Markdown → LaTeX with math, tables, figures, cross-refs, `\cite{}` |
-| **🛡️ Anti-Fabrication** | VerifiedRegistry enforces ground-truth experiment data in papers. Auto-diagnoses failed experiments and repairs them before writing. Unverified numbers sanitized. |
-| **🚦 Quality Gates** | 3 human-in-the-loop gates (Stages 5, 9, 20) with rollback. Skip with `--auto-approve`. |
+| **📚 Мультиисточниковая литература** | Реальные статьи из OpenAlex, Semantic Scholar и arXiv — расширение запросов, дедупликация, защита от падений API с постепенной деградацией |
+| **🔍 4-уровневая проверка цитат** | Проверка arXiv ID → CrossRef/DataCite DOI → совпадение заголовков в Semantic Scholar → оценка релевантности через LLM. Выдуманные ссылки удаляются автоматически |
+| **🖥️ Адаптация под оборудование** | Автоопределение GPU (NVIDIA CUDA / Apple MPS / CPU) и адаптация генерации кода, импортов и масштаба экспериментов |
+| **🦾 OpenCode Beast Mode** | Сложные эксперименты автоматически перенаправляются в [OpenCode](https://github.com/anomalyco/opencode) — генерация многофайловых проектов с кастомными архитектурами, циклами обучения и ablation studies. Устанавливается через `researchclaw setup` |
+| **🧪 Эксперименты в песочнице** | Валидация кода через AST, неизменяемая обвязка, быстрый отказ при NaN/Inf, самовосстановление, итеративное улучшение (до 10 раундов), сохранение частичных результатов |
+| **📝 Написание уровня конференций** | Шаблоны NeurIPS/ICML/ICLR, написание по разделам (5 000–6 500 слов), защита от выдуманных фактов, контроль объёма при редактуре, удаление типичных ИИ-оговорок |
+| **📐 Переключение шаблонов** | `neurips_2025`, `iclr_2026`, `icml_2026` — Markdown → LaTeX с формулами, таблицами, графиками, перекрёстными ссылками и `\cite{}` |
+| **🛡️ Защита от фабрикации** | VerifiedRegistry гарантирует использование реальных экспериментальных данных в статьях. Автоматическая диагностика и ремонт неудавшихся экспериментов перед написанием. Непроверенные числа вычищаются |
+| **🚦 Гейты качества** | 3 точки контроля человеком (Этапы 5, 9, 20) с возможностью отката. Можно пропустить флагом `--auto-approve` |
 
 ---
 
-## 🧠 MetaClaw Integration
+## 🧠 Интеграция с MetaClaw
 
-**AutoResearchClaw + [MetaClaw](https://github.com/aiming-lab/MetaClaw) = A pipeline that learns from every run.**
+**AutoResearchClaw + [MetaClaw](https://github.com/aiming-lab/MetaClaw) = Пайплайн, который учится на каждом запуске.**
 
-MetaClaw adds **cross-run knowledge transfer** to AutoResearchClaw. When enabled, the pipeline automatically captures lessons from failures and warnings, converts them into reusable skills, and injects those skills into all 23 pipeline stages on subsequent runs — so the same mistakes are never repeated.
+MetaClaw добавляет **перенос знаний между запусками**. Если эта функция включена, пайплайн автоматически извлекает уроки из ошибок и предупреждений, превращает их в переиспользуемые навыки и внедряет во все 23 этапа при следующих запусках — чтобы больше никогда не повторять одни и те же ошибки.
 
-### How It Works
+### Как это работает
 
 ```
-Run N executes → failures/warnings captured as Lessons
+Запуск N выполняется → ошибки/предупреждения сохраняются как Уроки (Lessons)
                       ↓
-          MetaClaw Lesson → Skill conversion
+          MetaClaw конвертирует Урок → Навык (Skill)
                       ↓
-          arc-* Skill files stored in ~/.metaclaw/skills/
+          Файлы навыков arc-* сохраняются в ~/.metaclaw/skills/
                       ↓
-Run N+1 → build_overlay() injects skills into every LLM prompt
+Запуск N+1 → build_overlay() внедряет навыки в каждый промпт LLM
                       ↓
-          LLM avoids known pitfalls → higher quality, fewer retries
+          LLM избегает известных ошибок → выше качество, меньше повторных попыток
 ```
 
-### Quick Setup
+### Быстрая настройка
 
 ```bash
-# 1. Install MetaClaw (if not already)
+# 1. Установите MetaClaw (если ещё не установлен)
 pip install metaclaw
 
-# 2. Enable in your config
+# 2. Включите в конфиге
 ```
 
 ```yaml
 # config.arc.yaml
 metaclaw_bridge:
   enabled: true
-  proxy_url: "http://localhost:30000"        # MetaClaw proxy (optional)
-  skills_dir: "~/.metaclaw/skills"          # Where skills are stored
-  fallback_url: "https://api.openai.com/v1" # Direct LLM fallback
-  fallback_api_key: ""                      # API key for fallback URL
+  proxy_url: "http://localhost:30000"        # Прокси MetaClaw (опционально)
+  skills_dir: "~/.metaclaw/skills"          # Папка для хранения навыков
+  fallback_url: "https://api.openai.com/v1" # Прямой фоллбэк к LLM
+  fallback_api_key: ""                      # API-ключ для фоллбэка
   lesson_to_skill:
     enabled: true
-    min_severity: "warning"                 # Convert warnings + errors
+    min_severity: "warning"                 # Конвертировать предупреждения и ошибки
     max_skills_per_run: 3
 ```
 
 ```bash
-# 3. Run as usual — MetaClaw works transparently
-researchclaw run --config config.arc.yaml --topic "Your idea" --auto-approve
+# 3. Запускайте как обычно — MetaClaw работает прозрачно
+researchclaw run --config config.arc.yaml --topic "Ваша идея" --auto-approve
 ```
 
-After each run, check `~/.metaclaw/skills/arc-*/SKILL.md` to see the skills your pipeline has learned.
+После каждого запуска заглядывайте в `~/.metaclaw/skills/arc-*/SKILL.md`, чтобы посмотреть, чему научился ваш пайплайн.
 
-### Experiment Results
+### Результаты экспериментов
 
-In controlled A/B experiments (same topic, same LLM, same configuration):
+В контролируемых A/B тестах (одна тема, одна LLM, один конфиг):
 
-| Metric | Baseline | With MetaClaw | Improvement |
+| Метрика | Базовый уровень | С MetaClaw | Улучшение |
 |--------|----------|---------------|-------------|
-| Stage retry rate | 10.5% | 7.9% | **-24.8%** |
-| Refine cycle count | 2.0 | 1.2 | **-40.0%** |
-| Pipeline stage completion | 18/19 | 19/19 | **+5.3%** |
-| Overall robustness score (composite) | 0.714 | 0.845 | **+18.3%** |
+| Частота повторных попыток на этапах | 10.5% | 7.9% | **-24.8%** |
+| Количество циклов доработки (Refine) | 2.0 | 1.2 | **-40.0%** |
+| Успешное завершение этапов пайплайна | 18/19 | 19/19 | **+5.3%** |
+| Общий индекс робастности (композитный) | 0.714 | 0.845 | **+18.3%** |
 
-> Composite robustness score is a weighted average of stage completion rate (40%), retry reduction (30%), and refine cycle efficiency (30%).
+> Композитный индекс робастности — это взвешенное среднее из процента завершения этапов (40%), снижения повторных попыток (30%) и эффективности циклов доработки (30%).
 
-### Backward Compatibility
+### Обратная совместимость
 
-- **Default: OFF.** If `metaclaw_bridge` is absent or `enabled: false`, the pipeline behaves exactly as before.
-- **No new dependencies.** MetaClaw is optional — the core pipeline works without it.
-- **All 1,823 existing tests pass** with the integration code present.
+- **По умолчанию: ВЫКЛЮЧЕНО.** Если блока `metaclaw_bridge` нет или `enabled: false`, пайплайн работает как раньше.
+- **Никаких новых зависимостей.** MetaClaw опционален — ядро работает и без него.
+- **Все 1 823 теста проходят успешно** даже с кодом интеграции.
 
 ---
 
-## ⚙️ Configuration Reference
+## ⚙️ Справочник по конфигурации
 
 <details>
-<summary>Click to expand full configuration reference</summary>
+<summary>Нажмите, чтобы развернуть полный справочник</summary>
 
 ```yaml
-# === Project ===
+# === Проект ===
 project:
-  name: "my-research"              # Project identifier
+  name: "my-research"              # Идентификатор проекта
   mode: "docs-first"               # docs-first | semi-auto | full-auto
 
-# === Research ===
+# === Исследование ===
 research:
-  topic: "..."                     # Research topic (required)
-  domains: ["ml", "nlp"]           # Research domains for literature search
-  daily_paper_count: 8             # Target papers per search query
-  quality_threshold: 4.0           # Minimum quality score for papers
+  topic: "..."                     # Тема исследования (обязательно)
+  domains: ["ml", "nlp"]           # Домены для поиска литературы
+  daily_paper_count: 8             # Целевое количество статей на один запрос
+  quality_threshold: 4.0           # Минимальный порог качества для статей
 
-# === Runtime ===
+# === Среда выполнения ===
 runtime:
-  timezone: "America/New_York"     # For timestamps
-  max_parallel_tasks: 3            # Concurrent experiment limit
-  approval_timeout_hours: 12       # Gate stage timeout
-  retry_limit: 2                   # Retry count on stage failure
+  timezone: "America/New_York"     # Для временных меток
+  max_parallel_tasks: 3            # Лимит параллельных экспериментов
+  approval_timeout_hours: 12       # Таймаут ожидания на гейтах
+  retry_limit: 2                   # Количество повторных попыток при падении этапа
 
 # === LLM ===
 llm:
   provider: "openai-compatible"    # openai | openrouter | deepseek | minimax | acp | openai-compatible
-  base_url: "https://..."          # API endpoint (required for openai-compatible)
-  api_key_env: "OPENAI_API_KEY"    # Env var for API key (required for openai-compatible)
-  api_key: ""                      # Or hardcode key here
-  primary_model: "gpt-4o"          # Primary model
-  fallback_models: ["gpt-4o-mini"] # Fallback chain
-  s2_api_key: ""                   # Semantic Scholar API key (optional, higher rate limits)
-  acp:                             # Only used when provider: "acp"
-    agent: "claude"                # ACP agent CLI command (claude, codex, gemini, etc.)
-    cwd: "."                       # Working directory for the agent
+  base_url: "https://..."          # API endpoint (обязательно для openai-compatible)
+  api_key_env: "OPENAI_API_KEY"    # Переменная окружения с ключом (обязательно для openai-compatible)
+  api_key: ""                      # Или можно задать ключ напрямую
+  primary_model: "gpt-4o"          # Основная модель
+  fallback_models: ["gpt-4o-mini"] # Цепочка фоллбэков
+  s2_api_key: ""                   # API-ключ Semantic Scholar (опционально, повышает лимиты)
+  acp:                             # Используется только если provider: "acp"
+    agent: "claude"                # Команда CLI ACP-агента (claude, codex, gemini и т.д.)
+    cwd: "."                       # Рабочая директория агента
 
-# === Experiment ===
+# === Эксперименты ===
 experiment:
   mode: "sandbox"                  # simulated | sandbox | docker | ssh_remote
-  time_budget_sec: 300             # Max execution time per run (default: 300s)
-  max_iterations: 10               # Max optimization iterations
-  metric_key: "val_loss"           # Primary metric name
+  time_budget_sec: 300             # Макс. время на один запуск (по умолчанию: 300 с)
+  max_iterations: 10               # Макс. количество итераций оптимизации
+  metric_key: "val_loss"           # Название главной метрики
   metric_direction: "minimize"     # minimize | maximize
   sandbox:
     python_path: ".venv/bin/python"
@@ -446,132 +441,132 @@ experiment:
     network_policy: "setup_only"   # none | setup_only | pip_only | full
     gpu_enabled: true
     memory_limit_mb: 8192
-    auto_install_deps: true        # Auto-detect imports → requirements.txt
+    auto_install_deps: true        # Автоопределение импортов → requirements.txt
   ssh_remote:
-    host: ""                       # GPU server hostname
-    gpu_ids: []                    # Available GPU IDs
+    host: ""                       # Имя хоста GPU-сервера
+    gpu_ids: []                    # Доступные ID видеокарт
     remote_workdir: "/tmp/researchclaw_experiments"
-  opencode:                          # OpenCode Beast Mode (auto-installed via `researchclaw setup`)
-    enabled: true                    # Master switch (default: true)
-    auto: true                       # Auto-trigger without confirmation (default: true)
-    complexity_threshold: 0.2        # 0.0-1.0 — higher = only trigger on complex experiments
-    model: ""                        # Override model (empty = use llm.primary_model)
-    timeout_sec: 600                 # Max seconds for OpenCode generation
-    max_retries: 1                   # Retry count on failure
-    workspace_cleanup: true          # Remove temp workspace after collection
-  code_agent:                        # CodeAgent v2 — multi-phase code generation
-    enabled: true                    # Use CodeAgent instead of legacy single-prompt codegen
-    architecture_planning: true      # Generate deep implementation blueprint before coding
-    sequential_generation: true      # Generate files one-by-one following dependency DAG
-    hard_validation: true            # AST-based validation gates (blocks identical ablations, hardcoded metrics)
-    hard_validation_max_repairs: 2   # Max repair attempts when validation fails
-    exec_fix_max_iterations: 3       # Execution-in-the-loop fix attempts
-    exec_fix_timeout_sec: 60         # Timeout per exec-fix attempt
-  benchmark_agent:                   # BenchmarkAgent — automated dataset & baseline selection
-    enabled: true                    # Enable 4-agent benchmark pipeline (Surveyor→Selector→Acquirer→Validator)
-    enable_hf_search: true           # Search HuggingFace Datasets
-    enable_web_search: true          # Search Google Scholar for benchmarks
-    tier_limit: 2                    # Dataset tier filtering (1=small/cached, 2=medium, 3=large)
-    min_benchmarks: 1                # Minimum datasets required
-    min_baselines: 2                 # Minimum baseline methods required
-  figure_agent:                      # FigureAgent — academic figure generation
-    enabled: true                    # Enable 5-agent figure pipeline (Planner→CodeGen→Renderer→Critic→Integrator)
-    min_figures: 3                   # Minimum figures to generate
-    max_figures: 8                   # Maximum figures
-    max_iterations: 3                # Critic-driven refinement iterations
-    dpi: 300                         # Output resolution
-    strict_mode: false               # Fail pipeline if figure generation fails
-  repair:                            # Anti-fabrication experiment repair
-    enabled: true                    # Auto-diagnose and repair failed experiments
-    max_cycles: 3                    # Repair retry loops
-    min_completion_rate: 0.5         # >=50% conditions must complete to proceed
-    min_conditions: 2                # At least 2 conditions for valid experiment
-    use_opencode: true               # Route repairs through OpenCode Beast Mode
+  opencode:                          # OpenCode Beast Mode (устанавливается через `researchclaw setup`)
+    enabled: true                    # Главный переключатель (по умолчанию: true)
+    auto: true                       # Автозапуск без подтверждения (по умолчанию: true)
+    complexity_threshold: 0.2        # 0.0–1.0 — чем выше, тем реже срабатывает (только на сложных задачах)
+    model: ""                        # Переопределение модели (пусто = использовать llm.primary_model)
+    timeout_sec: 600                 # Макс. время на генерацию в OpenCode
+    max_retries: 1                   # Количество повторных попыток при падении
+    workspace_cleanup: true          # Удалять временный воркспейс после сбора результатов
+  code_agent:                        # CodeAgent v2 — многофазная генерация кода
+    enabled: true                    # Использовать CodeAgent вместо однопромптовой генерации
+    architecture_planning: true      # Генерировать детальный план реализации перед кодированием
+    sequential_generation: true      # Генерировать файлы последовательно по графу зависимостей
+    hard_validation: true            # Валидация через AST (блокирует идентичные аблации, захардкоженные метрики)
+    hard_validation_max_repairs: 2   # Макс. попыток ремонта при провале валидации
+    exec_fix_max_iterations: 3       # Попыток исправления при ошибке выполнения
+    exec_fix_timeout_sec: 60         # Таймаут на одну попытку исправления
+  benchmark_agent:                   # BenchmarkAgent — автоматический подбор датасетов и бейзлайнов
+    enabled: true                    # Включить 4-агентный пайплайн (Surveyor→Selector→Acquirer→Validator)
+    enable_hf_search: true           # Поиск по HuggingFace Datasets
+    enable_web_search: true          # Поиск по Google Scholar
+    tier_limit: 2                    # Фильтр по размеру датасетов (1=малые/кэшированные, 2=средние, 3=большие)
+    min_benchmarks: 1                # Минимальное количество датасетов
+    min_baselines: 2                 # Минимальное количество бейзлайнов
+  figure_agent:                      # FigureAgent — генерация академических иллюстраций
+    enabled: true                    # Включить 5-агентный пайплайн (Planner→CodeGen→Renderer→Critic→Integrator)
+    min_figures: 3                   # Минимальное количество иллюстраций
+    max_figures: 8                   # Максимальное количество иллюстраций
+    max_iterations: 3                # Итерации доработки по отзывам критика
+    dpi: 300                         # Разрешение на выходе
+    strict_mode: false               # Прерывать пайплайн при ошибке генерации иллюстраций
+  repair:                            # Ремонт экспериментов (защита от фабрикации)
+    enabled: true                    # Автоматическая диагностика и ремонт неудавшихся экспериментов
+    max_cycles: 3                    # Количество циклов ремонта
+    min_completion_rate: 0.5         # ≥50% условий должны завершиться для продолжения
+    min_conditions: 2                # Минимум 2 условия для валидного эксперимента
+    use_opencode: true               # Направлять ремонт через OpenCode Beast Mode
 
-# === Web Search (Optional) ===
+# === Веб-поиск (опционально) ===
 web_search:
-  enabled: true                      # Enable web-augmented literature search
-  tavily_api_key_env: "TAVILY_API_KEY"  # Tavily API key env var (optional)
-  enable_scholar: true               # Google Scholar search
-  enable_pdf_extraction: true        # Extract text from PDFs
-  max_web_results: 10                # Max web results per query
+  enabled: true                      # Включить веб-поиск при обзоре литературы
+  tavily_api_key_env: "TAVILY_API_KEY"  # Переменная окружения с ключом Tavily (опционально)
+  enable_scholar: true               # Поиск по Google Scholar
+  enable_pdf_extraction: true        # Извлечение текста из PDF
+  max_web_results: 10                # Макс. количество результатов на запрос
 
-# === Export ===
+# === Экспорт ===
 export:
   target_conference: "neurips_2025"  # neurips_2025 | iclr_2026 | icml_2026
   authors: "Anonymous"
   bib_file: "references"
 
-# === Prompts ===
+# === Промпты ===
 prompts:
-  custom_file: ""                  # Path to custom prompts YAML (empty = defaults)
+  custom_file: ""                  # Путь к кастомному YAML с промптами (пусто = по умолчанию)
 
-# === Security ===
+# === Безопасность ===
 security:
-  hitl_required_stages: [5, 9, 20] # Stages requiring human approval
+  hitl_required_stages: [5, 9, 20] # Этапы, требующие подтверждения человеком (Human-in-the-loop)
   allow_publish_without_approval: false
   redact_sensitive_logs: true
 
-# === Knowledge Base ===
+# === База знаний ===
 knowledge_base:
   backend: "markdown"              # markdown | obsidian
   root: "docs/kb"
 
-# === Notifications ===
+# === Уведомления ===
 notifications:
   channel: "console"               # console | discord | slack
   target: ""
 
-# === MetaClaw Bridge (Optional) ===
+# === Мост MetaClaw (опционально) ===
 metaclaw_bridge:
-  enabled: false                   # Set to true to enable cross-run learning
-  proxy_url: "http://localhost:30000"  # MetaClaw proxy URL
-  skills_dir: "~/.metaclaw/skills" # Where arc-* skills are stored
-  fallback_url: ""                 # Direct LLM fallback when proxy is down
-  fallback_api_key: ""             # API key for fallback endpoint
+  enabled: false                   # Включить кросс-сессионное обучение
+  proxy_url: "http://localhost:30000"  # URL прокси MetaClaw
+  skills_dir: "~/.metaclaw/skills" # Папка для хранения навыков arc-*
+  fallback_url: ""                 # Прямой фоллбэк к LLM, если прокси недоступен
+  fallback_api_key: ""             # API-ключ для фоллбэка
   lesson_to_skill:
-    enabled: true                  # Auto-convert lessons to skills
-    min_severity: "warning"        # Minimum severity to convert
-    max_skills_per_run: 3          # Max new skills per pipeline run
-  prm:                             # Process Reward Model quality gate (optional)
-    enabled: false                 # Use LLM-as-judge to score stage outputs
-    model: "gpt-5.4"              # PRM judge model
-    votes: 3                       # Majority vote count
-    gate_stages: [5, 9, 15, 20]   # Stages to apply PRM gates
+    enabled: true                  # Автоматически конвертировать уроки в навыки
+    min_severity: "warning"        # Минимальная серьёзность для конвертации
+    max_skills_per_run: 3          # Макс. количество новых навыков за один запуск
+  prm:                             # Process Reward Model — оценка качества этапов (опционально)
+    enabled: false                 # Использовать LLM-as-judge для оценки выходов этапов
+    model: "gpt-5.4"              # Модель-судья PRM
+    votes: 3                       # Количество голосов (мажоритарное голосование)
+    gate_stages: [5, 9, 15, 20]   # Этапы, на которых применяется PRM-гейт
 
-# === OpenClaw Bridge ===
+# === Мост OpenClaw ===
 openclaw_bridge:
-  use_cron: false                  # Scheduled research runs
-  use_message: false               # Progress notifications
-  use_memory: false                # Cross-session knowledge persistence
-  use_sessions_spawn: false        # Spawn parallel sub-sessions
-  use_web_fetch: false             # Live web search
-  use_browser: false               # Browser-based paper collection
+  use_cron: false                  # Запуск исследований по расписанию
+  use_message: false               # Уведомления о прогрессе
+  use_memory: false                # Сохранение знаний между сессиями
+  use_sessions_spawn: false        # Запуск параллельных подсессий
+  use_web_fetch: false             # Поиск в интернете в реальном времени
+  use_browser: false               # Сбор статей через браузер
 ```
 
 </details>
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Благодарности
 
-Inspired by:
+Вдохновлено проектами:
 
-- 🔬 [AI Scientist](https://github.com/SakanaAI/AI-Scientist) (Sakana AI) — Automated research pioneer
-- 🧠 [AutoResearch](https://github.com/karpathy/autoresearch) (Andrej Karpathy) — End-to-end research automation
-- 🌐 [FARS](https://analemma.ai/blog/introducing-fars/) (Analemma) — Fully Automated Research System
-
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE) for details.
+- 🔬 [AI Scientist](https://github.com/SakanaAI/AI-Scientist) (Sakana AI) — Пионер автоматизированных исследований
+- 🧠 [AutoResearch](https://github.com/karpathy/autoresearch) (Andrej Karpathy) — Сквозная автоматизация исследований
+- 🌐 [FARS](https://analemma.ai/blog/introducing-fars/) (Analemma) — Полностью автоматизированная исследовательская система
 
 ---
 
-## 📌 Citation
+## 📄 Лицензия
 
-If you find AutoResearchClaw useful, please cite:
+MIT — подробности см. в [LICENSE](LICENSE).
+
+---
+
+## 📌 Цитирование
+
+Если AutoResearchClaw оказался вам полезен, пожалуйста, процитируйте:
 
 ```bibtex
 @misc{liu2026autoresearchclaw,
@@ -584,5 +579,5 @@ If you find AutoResearchClaw useful, please cite:
 ```
 
 <p align="center">
-  <sub>Built with 🦞 by the AutoResearchClaw team</sub>
+  <sub>Создано с 🦞 командой AutoResearchClaw</sub>
 </p>
